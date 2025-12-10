@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Command Center
+Comment=Simple system control panel for common tasks
+Exec=command_center
+Icon=system-settings
+Terminal=false
+Categories=System;Settings;Utility;
+StartupNotify=false
+
